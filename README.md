@@ -42,7 +42,3 @@ samples, guidance on mobile development, and a full API reference.
 </p>
 
 
-![IMG-20221106-WA0006](https://github.com/Asem130/store-app-/assets/97855100/a28e8ac7-578e-406e-a0cd-6b059a6f0c89)
-![IMG-20221106-WA0008](https://github.com/Asem130/store-app-/assets/97855100/622382a6-55e6-460f-b9dd-815d3c7bb91b)
-![IMG-20221106-WA0010](https://github.com/Asem130/store-app-/assets/97855100/a4117722-310c-4f32-9d61-eb72e1acb384)
-![IMG-20221106-WA0007](https://github.com/Asem130/store-app-/assets/97855100/492a2998-1962-4d2e-b149-66c461ac3543)
