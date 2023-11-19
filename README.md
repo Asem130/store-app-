@@ -27,12 +27,3 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/Asem130/store-app-/assets/97855100/2ac76979-b612-4e43-8a4f-74aa9f7e059f" width="370" >
   
 </p>
-![Uploading IMG-20221106-WA0010.jpg…]()
-
-
-![IMG-20221106-WA0015](https://github.com/Asem130/store-app-/assets/97855100/2ac76979-b612-4e43-8a4f-74aa9f7e059f)
-![IMG-20221106-WA0012](https://github.com/Asem130/store-app-/assets/97855100/6d606b1c-83fc-4620-888f-96e1216e1e35)
-![IMG-20221106-WA0009](https://github.com/Asem130/store-app-/assets/97855100/3defa527-a9b0-40df-9849-b1c88244a9f3)
-![IMG-20221106-WA0011](https://github.com/Asem130/store-app-/assets/97855100/f442c1ec-d3fb-4ae8-85b5-9f6b4f2c6dcd)
-![IMG-20221106-WA0014](https://github.com/Asem130/store-app-/assets/97855100/b92978fd-b7af-4feb-8b58-4c82ee24d4ec)
-![IMG-20221106-WA0013](https://github.com/Asem130/store-app-/assets/97855100/08028ed6-fab2-4c4a-b9a4-80ff040cb0a3)
